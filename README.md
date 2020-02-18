@@ -19,7 +19,7 @@ Muehlenhaus, I. (2014). Web Cartography. Boca Raton: CRC Press, https://doi-org.
 Walton, A (n.d). The Guide To Map Design. Mapbox Studios, https://www.mapbox.com/resources/guide-to-map-design-part-1a.pdf
 
 <br/>
-![alt text](/Map Screenshot.PNG "Map Screenshot")
+![alt text](Map-Screenshot.PNG "Map Screenshot")
 
 <br/>
 ## Collaboraion Session ##
