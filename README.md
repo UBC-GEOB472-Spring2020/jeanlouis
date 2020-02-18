@@ -20,10 +20,10 @@ Muehlenhaus, I. (2014). Web Cartography. Boca Raton: CRC Press, https://doi-org.
 Walton, A (n.d). The Guide To Map Design. Mapbox Studios, https://www.mapbox.com/resources/guide-to-map-design-part-1a.pdf
 
 
-## Collaboraion Session ##
+## Collaboraion Session
 
 
 The collaboration session was helpful and insightful regarding how my perception of colours can be different from others. This was particularly obvious with the color red and yellow being so close together. Many thought that the colour was misleading as it portrayed a ramp rather than quantitative data. Further I was able to prioritize displayed data through feedback. I helped one of my classmates with setting the map’s starting position and zoom. And received help mainly though web sources.
 
-
+![alt text](Map-Screenshot.PNG "Logo Title Text 1")
 
