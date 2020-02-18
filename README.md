@@ -14,9 +14,7 @@ Muehlenhaus, I. (2014). Web Cartography. Boca Raton: CRC Press, https://doi-org.
 Walton, A (n.d). The Guide To Map Design. Mapbox Studios, https://www.mapbox.com/resources/guide-to-map-design-part-1a.pdf
 
 <br/>
-Inline-style: 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://1drv.ms/u/s!AqzUULkqFb5Jrf093V27t2osxXxfBA "Logo Title Text 1")
 
 <br/>
 <head>Collaboraion Session</head>
