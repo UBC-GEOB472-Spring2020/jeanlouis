@@ -25,5 +25,7 @@ Walton, A (n.d). The Guide To Map Design. Mapbox Studios, https://www.mapbox.com
 
 The collaboration session was helpful and insightful regarding how my perception of colours can be different from others. This was particularly obvious with the color red and yellow being so close together. Many thought that the colour was misleading as it portrayed a ramp rather than quantitative data. Further I was able to prioritize displayed data through feedback. I helped one of my classmates with setting the map’s starting position and zoom. And received help mainly though web sources.
 
+Acceess Map Here: https://ubc-geob472-spring2020.github.io/jeanlouis-web/Lab1.html
+
 ![alt text](Map-Screenshot.PNG "Logo Title Text 1")
 
