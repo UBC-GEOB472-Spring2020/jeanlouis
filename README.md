@@ -1,4 +1,5 @@
-#Breakdown
+# Breakdown
+<br/>
 The purpose of this map is to help illustrate the very destructive burn year of 2018, so as such design choices were made to better portray this. As recommended by Ian Muehlhauser in his work on web cartography, flashier colours on the base map were avoided in favour of simple and monochromic colours (2014). This acts to better bring attention to the colours of the different polygons, and the dark nature of the map also helps to draw contrast between the fire polygons and draw attention to the smaller relative areas of most fires. Cyan was also used to illustrate wildfires caused by humans. Originally red was used as this is a more emotive colour and generally human caused wildfires may be more worthy of emotional attention, however the map appeared to have a colour ramp for severity which was not intended. Muehlhauser mentions that leveraging such emotions is important in designing an effective map, however this cannot be at the expense of cartographic relevance.
 <br/>
 <br/>
@@ -18,7 +19,7 @@ Walton, A (n.d). The Guide To Map Design. Mapbox Studios, https://www.mapbox.com
 ![alt text](/ "Logo Title Text 1")
 
 <br/>
-#Collaboraion Session
+# Collaboraion Session
 <br/>
 <br/>
 The collaboration session was helpful and insightful regarding how my perception of colours can be different from others. This was particularly obvious with the color red and yellow being so close together. Many thought that the colour was misleading as it portrayed a ramp rather than quantitative data. Further I was able to prioritize displayed data through feedback. I helped one of my classmates with setting the map’s starting position and zoom. And received help mainly though web sources.
