@@ -16,7 +16,9 @@ Roth, R.E. (2015). Interactivity and Cartography: A Contemporary Perspective on 
 ## Collaboraion Session
 
 
-Through collaboration multiple factors came to mind. The basemap was originally dark and did not put enough emphasis on the water. Further the symbols were only symbols. The GeoJSON data from the departent of fisheries did not contain percent cover of invasive species. If this was provided the use of circles instead of symbols may be useful. Thus in both cases I shifted my map to better account for the specifics of the data.
+Through collaboration multiple factors came to mind. The basemap was originally dark and it was pointed out to me that this did not put enough emphasis on the water. Further the symbols were origianlly circles. The GeoJSON data from the departent of fisheries did not contain percent cover of invasive species. If this was provided the use of circles instead of symbols may be useful, as size could be represented in the circle size. Thus in both cases I shifted my map to better account for the specifics of the data.
+
+I used multiple sources for assistance, most significantly the Mapbox tutorials.
 
 Acceess Map Here: https://ubc-geob472-spring2020.github.io/jeanlouis-web/Lab_2_Stations.html
 
