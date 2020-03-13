@@ -20,4 +20,4 @@ Through collaboration multiple factors came to mind. The basemap was originally 
 
 Acceess Map Here: https://ubc-geob472-spring2020.github.io/jeanlouis-web/Lab1.html
 
-![alt text](Map-Screenshot.PNG "Logo Title Text 1")
+![alt text](Lab2_map_photo.png "Logo Title Text 1")
