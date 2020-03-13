@@ -11,3 +11,13 @@ Citations<br>
 Muehlenhaus, I. (2014). Web Cartography. Boca Raton: CRC Press, https://doi-org.ezproxy.library.ubc.ca/10.1201/b16229 <br>
 
 Roth, R.E. (2015). Interactivity and Cartography: A Contemporary Perspective on User Interface and User Experience Design from Geospatial Professionals. Cartographica: The International Journal for Geographic Information and Geovisualization 50(2), 94-115. https://www.muse.jhu.edu/article/584474.
+
+
+## Collaboraion Session
+
+
+Through collaboration multiple factors came to mind. The basemap was originally dark and did not put enough emphasis on the water. Further the symbols were only symbols. The GeoJSON data from the departent of fisheries did not contain percent cover of invasive species. If this was provided the use of circles instead of symbols may be useful. Thus in both cases I shifted my map to better account for the specifics of the data.
+
+Acceess Map Here: https://ubc-geob472-spring2020.github.io/jeanlouis-web/Lab1.html
+
+![alt text](Map-Screenshot.PNG "Logo Title Text 1")
